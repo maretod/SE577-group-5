@@ -1,0 +1,5 @@
+https://github.com/maretod/SE577-trainsim-client
+https://github.com/maretod/SE577-trainsim-itinerary
+https://github.com/maretod/SE577-trainsim-planner
+https://github.com/maretod/SE577-trainsim-user
+https://github.com/maretod/SE577-trainsim-usercart
